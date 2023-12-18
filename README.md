@@ -1,5 +1,10 @@
 ### Hi there 👋
+<div align=center>
 
+![overall stats](https://github-readme-stats.vercel.app/api?username=jhojin7&theme=highcontrast&hide_rank=true)
+
+![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jhojin7&langs_count=10&layout=donut&theme=highcontrast)
+</div>
 <!--
 **jhojin7/jhojin7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
