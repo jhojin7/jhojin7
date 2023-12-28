@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Hojin Jang
+- I mostly code backend stuff and data-related logic for projects.
+- Finished  
 <div align=center>
 
 ![overall stats](https://github-readme-stats.vercel.app/api?username=jhojin7&theme=highcontrast&hide_rank=true)
