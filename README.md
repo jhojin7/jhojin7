@@ -6,10 +6,10 @@
 - Has web dev experience Python and Java. Experienced with both SQL and NoSQL databases.
 - AWS Certified Developer Associate.
 - I'm currently:
-  - Going deep on Java and Spring.
+  - Going deep into Java and Spring.
   - In a study group honing my algo skills (you can find our submission statuses [here (BOJ)](https://www.acmicpc.net/status?group_id=19519)).
   - Looking for junior backend/server engineering positions.
-- Noteworhy Things
+- Noteworhy Things:
   - [`problem-solving`](https://github.com/jhojin7/problem-solving) is where I upload my algo code
   - [`sejong-reservation`](https://github.com/iwakura1ain/sejong-reservation) is a group capstone project implementing a meeting room reservation system.
     - My role was mostly backend side, working on developing the core logic for reservation service.
@@ -18,9 +18,6 @@
   - Daily Ubuntu user!
     - Also have a homelab for my local network and backup vault. My dotfiles are [here](https://github.com/jhojin7/dotfiles).
 
-- I am on: LinkedIn, GitHub, Programmers
-- Contact me: 
- 
 <details>
   <summary>
     <h2>Some of My Publically Available Stats:</h2>
