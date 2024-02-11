@@ -3,12 +3,11 @@
 </h1>
 
 - I mostly code backend stuff and data-related logic for projects that I work on.
-- Has web dev experience Python and Java. Experienced with both SQL and NoSQL databases.
+- Has web dev experience Python and Java (mainly Python). Experienced with both SQL and NoSQL databases.
 - AWS Certified Developer Associate.
 - I'm currently:
-  - Going deep into Java and Spring.
-  - In a study group honing my algo skills (you can find our submission statuses [here (BOJ)](https://www.acmicpc.net/status?group_id=19519)).
-  - Looking for junior backend/server engineering positions.
+  - Working as a python scripter for a company specialized in data processing for AI.
+  - Hands-on experience with complex `bounding box`, `polygon`, `point cloud` data in JSON with Python.
 - Noteworhy Things:
   - [`problem-solving`](https://github.com/jhojin7/problem-solving) is where I upload my algo code
   - [`sejong-reservation`](https://github.com/iwakura1ain/sejong-reservation) is a group capstone project implementing a meeting room reservation system.
